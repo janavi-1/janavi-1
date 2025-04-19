@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm Computer Science student just starting my journey into world of tech and development<br>Ctrl+C my brain , Ctrl+V into code
+I'm Computer Science student just starting my journey into the world of Tech and Development<br>Ctrl+C my brain , Ctrl+V into code
 
 
 ## 🌐 Socials:
